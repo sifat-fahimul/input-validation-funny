@@ -17,8 +17,6 @@ p {
   display: block;
 }
 .animation {
-  /* height: 50px;
-  width: 50px; */
   padding: 5px 10px;
   /* background-color: yellowgreen; */
   transition: transform 1s;

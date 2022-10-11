@@ -36,7 +36,6 @@ export default function App() {
     <div>
       <h1>Something funny!</h1>
       <p>Start exploring to see some magic happen :)</p>
-
       <form action="" onSubmit={(e) => e.preventDefault()}>
         <label htmlFor="">
           <input
